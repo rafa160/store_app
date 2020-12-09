@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Store app</string>
+
+    <string name="facebook_app_id">675127293129303</string>
+
+    <string name="fb_login_protocol_scheme">fb675127293129303</string>
+</resources>
